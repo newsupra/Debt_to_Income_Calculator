@@ -1,4 +1,4 @@
-#Multiply to 100, for example if it's 0.33 then your debt to income ratio is 33%
+#Multiply results to 100, for example if it's 0.33 then your debt to income ratio is 33%
 
 print('''
 Debt To Income Calculator
