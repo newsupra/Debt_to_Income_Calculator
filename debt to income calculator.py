@@ -6,7 +6,7 @@ Debt To Income Calculator
 ''')
 restart = "y"
 def dti_calc():
-    total_debt = input('''Enter Gross Monthly debt: ''')
+    total_debt = input('''Enter Total Monthly debt: ''')
     total_debt = float(total_debt)
     gross_monthly_income = input('''Enter Gross Monthly Income: ''')
     gross_monthly_income = float(gross_monthly_income)
